@@ -1,0 +1,9 @@
+name: AnimatedDoors
+version: '1.0'
+main: fun.vespera.animatedDoors.AnimatedDoors
+api-version: '1.21'
+
+commands:
+  animdoors:
+    description: scan chunks & spawn item_display by radius
+    permission: animdoors.admin
